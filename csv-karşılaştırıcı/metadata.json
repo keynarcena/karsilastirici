@@ -1,5 +1,0 @@
-{
-  "name": "CSV Karşılaştırıcı",
-  "description": "İki farklı CSV dosyasını yükleyip aralarındaki farkları analiz eden basit bir araç.",
-  "requestFramePermissions": []
-}
